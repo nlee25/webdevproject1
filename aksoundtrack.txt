@@ -1,0 +1,61 @@
+<!DOCTPYE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Best of Arknights Soundtrack</title>
+</head>
+<body>
+  <div id="linklist">
+  <ul>
+    <li><a href="resume.html">Resume</a></li>
+    <li><a href="artwork.html">Artwork</a></li>
+    <li><a href="AKSoundtrack.html">Best of Arknights Soundtrack </a></li>
+  <ul>
+  <h1>Best of the Arknights Soundtrack</h1>
+  <p>Arknights, in my heart takes the place of the best mobile game there is. While its nature of being just 'a tower defense game' may put some off of it</p>
+  <p>the beauty of its art, music and story more than makes up for its shortcomings as a game. That being said, the game itself is extremely entertaining. </p>
+  <p>This is a small sample of my favorite songs from the game. Most are leitmotifs for characters.</p>
+  <div>
+    <h2>塞壬唱片-MSR,Robert Wolf,Obadiah Brown-Beach: Ensheath</h2>
+	<a id="ensheath_album" href="artwork.html"><img src="images/ensheathe.jpeg" alt="the album cover for the song 'ensheathe' from arknights"></a>
+    <audio controls>
+      <source src="music/Arknights EP - Ensheath.mp3" type="audio/mpeg">
+    </audio>
+	<p>The theme for an operator named "Mlynar"</p>
+  </div>
+  <div>
+    <h2>塞壬唱片-MSR · Jason Walsh · Alan Day: Operation Pyrite</h2>
+	<a id="pyrite_album" href="artwork.html"><img src="images/pyrite.jpeg" alt="the album cover for the song 'operation pyrite' from arknights"></a>
+    <audio controls>
+      <source src="music/Operation Pyrite.mp3" type="audio/mpeg">
+    </audio>
+	<p>The theme for an annilation operation. Not tied to a particular operator but its really good. "</p>
+  </div>
+  <div>
+    <h2>塞壬唱片-MSR,Robert Wolf,Obadiah Brown-Beach: Ensheath</h2>
+    <iframe width="560" height="315"  src="https://www.youtube.com/watch?v=K47elku8YdI&t=156s"> allowfullscreen></iframe>
+	<p> My personal favorite song, for my favorite operator, Nearl. The trailer Arknights made is an excellent blend of audio and visual work so its best to watch this. </p>
+  </div>
+</body>
+</html>
+	 
+  
+	
+
+
+
+	
+
+
+
+
+	  
+	
+
+  
+
+	
+	
+  
+  
+
